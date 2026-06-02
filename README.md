@@ -125,20 +125,8 @@ Full-stack B2B marketplace connecting restaurants, suppliers & transporters in A
 
 [![DataCamp](https://img.shields.io/badge/Time_Series_in_Python-DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black)](https://www.datacamp.com/completed/statement-of-accomplishment/track/5777f14316bc5e1d2b5fe9fce32ae804b9ac1596)
 
-![365DataScience](https://img.shields.io/badge/Machine_Learning_with_Python-365_DataScience-FF6B35?style=for-the-badge)
-![365DataScience](https://img.shields.io/badge/Statistics-365_DataScience-FF6B35?style=for-the-badge)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdenacerKerrouche&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdenacerKerrouche&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+[![365DataScience](https://img.shields.io/badge/Machine_Learning_with_Python-365_DataScience-FF6B35?style=for-the-badge)](https://learn.365datascience.com/certificates/CC-A22FF243F9/)
+[![365DataScience](https://img.shields.io/badge/Statistics-365_DataScience-FF6B35?style=for-the-badge)](https://learn.365datascience.com/certificates/CC-B6D76DACB4/)
 
 ---
 
