@@ -7,7 +7,6 @@ ENSSEA, Algeria · Machine Learning · Time Series · Statistical Modeling · De
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdenacer-kerrouche-8a347734b)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdenacerkerrouche74@gmail.com)
-[![Streamlit App](https://img.shields.io/badge/Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://nexus-modelverse.streamlit.app/)
 
 </div>
 
